@@ -64,6 +64,7 @@ The ZABx Development team expects to:
 # 9)	ZABx Team
 •	Mohammad Areeb Faisal, Co-founder and Chief Executive Officer of ZABx. Web3 Enthusiast and Blockchain Developer.
 https://www.linkedin.com/in/mohammad-areeb-faisal/
+
 •	Fatima Mohiuddin, Co-founder and Chief Operating Officer of ZABx. Web3 Enthusiast and UI/UX Developer.
 https://www.linkedin.com/in/fatima-mohiuddin-03618a21b/
 
