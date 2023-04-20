@@ -1,6 +1,5 @@
-# ZABX Blockchain, Coin and Exchange
-
 # ZABX WhitePaper
+
 # 1) What is a Coin?
 Coin is an ERC20 token that aims to provide a secure and transparent platform for peer-to-peer transactions. The Coin smart contract is implemented on the Ethereum blockchain, which ensures that all transactions are fast, cheap, and secure.
 # 2)	Introduction
