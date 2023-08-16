@@ -1,0 +1,45 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\areeb\\OneDrive\\Desktop\\workk\\reactwebsite\\contracts\\ZABx.sol": {
+      "lastModificationDate": 1684507217861,
+      "contentHash": "d9ce7614444154ea7b0bbb0cdf3c7679",
+      "sourceName": "contracts/ZABx.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20",
+        "IERC20Metadata",
+        "SafeMath",
+        "ZABxToken"
+      ]
+    }
+  }
+}
